@@ -1,3 +1,5 @@
 # Forum Graczy
-Link do backendu azure app
-https://forum-graczy.azurewebsites.net/api
+
+#Wdrożenie w Azure App Service
+Swagger:
+https://forum-graczy.azurewebsites.net/swagger-ui/index.html
