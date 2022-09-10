@@ -1,3 +1,3 @@
 # Forum Graczy
-Link do strony  
-https://forum-graczy.herokuapp.com/
+Link do backendu azure app
+https://forum-graczy.azurewebsites.net/api
