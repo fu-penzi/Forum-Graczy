@@ -22,7 +22,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 @RestController
 @RequestMapping(path = "api/user")
-@CrossOrigin(origins = { "https://localhost", "http://localhost:3000" })
+@CrossOrigin(origins = { "https://localhost", "http://localhost:3000", "https://lazurastv.github.io" })
 @RequiredArgsConstructor
 public class UserController {
 
